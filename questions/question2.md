@@ -24,3 +24,12 @@ function custom_menu_page_display(){
 1. What does this code do?
 1. Who can/cannot view its effects?
 1. What URL exposes the new functionality?
+
+**Answer 1:**
+Adds a custom menu page to the wp-admin section.
+
+**Answer 2:**
+A user, typically an Administrator with the capability to "manage_options".
+
+**Answer 3:**
+{site_url}/wp-admin/admin.php?page=custom-menu
